@@ -102,6 +102,12 @@ Algumas ideias para contribuição incluem:
 
 ---
 
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
 ## 🧑‍💻 Criado por
 
-[Regiane Cabral] - [@giannycabral](https://github.com/giannycabral) | [Regiane Cabral](https://www.linkedin.com/in/regiane-jesus)
+Regiane Cabral - [@giannycabral](https://github.com/giannycabral) | [Regiane Cabral](https://www.linkedin.com/in/regiane-jesus)
