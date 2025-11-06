@@ -68,8 +68,8 @@ A análise mostra que o modelo é forte na identificação de veículos, mas ain
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-NOME/SEU-REPOSITORIO.git](https://github.com/SEU-NOME/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone [https://github.com/giannycabral/classificador-cifar10-cnn.git](https://github.com/giannycabral/classificador-cifar10-cnn.git)
+    cd classificador-cifar10-cnn
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
@@ -88,3 +88,20 @@ A análise mostra que o modelo é forte na identificação de veículos, mas ain
     ```bash
     python cifar10_classifier.py
     ```
+---
+
+## 🤝 Como Contribuir
+
+Contribuições são sempre bem-vindas! Se você tiver sugestões, melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+Algumas ideias para contribuição incluem:
+* Experimentar diferentes arquiteturas de CNN.
+* Implementar Data Augmentation para melhorar a acurácia.
+* Aplicar Transfer Learning (ex: usando modelos pré-treinados como VGG16, ResNet).
+* Melhorar a visualização dos resultados.
+
+---
+
+## 🧑‍💻 Criado por
+
+[Regiane Cabral] - [@giannycabral](https://github.com/giannycabral) | [Regiane Cabral](https://www.linkedin.com/in/regiane-jesus)
